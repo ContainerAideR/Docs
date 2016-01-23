@@ -14,4 +14,5 @@ Enables efficient space planning by providing a customizable optimization engine
 No contracts required, use as needed.
 
 ### Web Application
-
+Even from the beginning, we wanted the ability for other developers to become involved as a built-in feature to the platform. Our Big Data Analytic platform has many methods and vectors for data ingress / egress.  We want users to have fun with it, so we are drawn to use a new tech stack.  
+In order to work well, it needs to be fast!  Web Application servers and client components need to maintain [harmony](https://strongloop.com/strongblog/node-js-is-faster-than-java/), so we focused on server-side programming using [Node.js](https://nodejs.org/en/)a JavaScript runtime built on Chrome's V8 JavaScript engine. MongoDB is a natural choice as a database technology as it also employs JavaScript and JSON.  Our database layer also provides direct integration into the Analytic platform. 
