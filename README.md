@@ -10,8 +10,6 @@ Enables efficient space planning by providing a customizable optimization engine
 2. Automated Batch file transfers
 
 3. AideR API - Gateway for microservices
- 
-No contracts required, use as needed.
 
 ### Web Application
 Even from the beginning, we wanted the ability for other developers to become involved as a built-in feature to the platform. Our Big Data Analytic platform has many methods and vectors for data ingress / egress.  We want users to have fun with it, so we are drawn to use a new tech stack.  
