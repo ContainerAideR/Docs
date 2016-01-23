@@ -14,6 +14,9 @@ Enables efficient space planning by providing a customizable optimization engine
 ### Web Application
 Even from the beginning, we wanted the ability for other developers to become involved as a built-in feature to the platform. Our Big Data Analytic platform has many methods and vectors for data ingress / egress.  We want users to have fun with it, so we are drawn to use a new tech stack.  
 
+Event-Driven Architecture - 
+![alt text][event]
+
 In order to work well, it needs to be fast!  Web Application servers and client components need to maintain [harmony](https://strongloop.com/strongblog/node-js-is-faster-than-java/) (asynchronous non-blocking), so we focused on server-side programming using [Node.js](https://nodejs.org/en/) a JavaScript runtime built on Chrome's V8 JavaScript engine. MongoDB is a natural choice as a database technology as it also employs JavaScript and JSON.  
 
 ### Batch Transactions
@@ -21,3 +24,7 @@ Our database layer also provides direct integration into the Analytic platform. 
 
 ### AideR API
 We want to enable you to quickly create dynamic end-to-end REST APIs using the open-source [LoopBack Framework](http://loopback.io). By adding partners with expert knowledge of API development, [StrongLoop](https://strongloop.com/node-js/api-platform/) provides a strong platform for tools to handle enterprise level development of the Entire API Development Lifecycle.
+
+
+
+[event]: https://github.com/ContainerAideR/Overview/blob/master/img/event_loop.jpg?raw=true "event"
