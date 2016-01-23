@@ -20,4 +20,4 @@ In order to work well, it needs to be fast!  Web Application servers and client 
 Our database layer also provides direct integration into the Analytic platform. The mongoimport tool imports content from an Extended JSON, CSV, or TSV export created by mongoexport, or potentially, another third-party export tool.  This allows you to work with your data in a human-readable Extended JSON or CSV format. This is useful for simple ingestion to or from a third-party system, and when you want to backup or export a small subset of your data.
 
 ### AideR API
-We want your REST API development to move quickly, and partner with experts in API developments. [StrongLoop](https://strongloop.com/node-js/api-platform/) provides a strong platform for tools to the Entire API Development Lifecycle.
+We want to enable you to quickly create dynamic end-to-end REST APIs using the open-source [LoopBack Framework](http://loopback.io). By adding partners with expert knowledge of API development, [StrongLoop](https://strongloop.com/node-js/api-platform/) provides a strong platform for tools to handle enterprise level development of the Entire API Development Lifecycle.
