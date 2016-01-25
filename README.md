@@ -3,7 +3,7 @@ Computational Aide to Finding the Perfect Fit.
 This Repo will Illustrate the usage and functions of the ContainerAideR suite of products with descriptions of the Architecture, Tutorials and references to the API calls.
 
 ## ContainerAideR - Overview  
-Enables efficient space planning by providing a customizable optimization engine the utilizes machine learning.  Commercially developed to efficiently load ISO shipping containers for international freight transportation, ContainerAideR can pack anything.  The infrastructure is delivered as a High Availability, Fault Tolerant, Auto-Scalable cloud resource to be used on-demand as needed and can be accessed in 3 main forms:
+Enables efficient space planning by providing a customizable optimization engine the utilizes machine learning.  Commercially developed to efficiently load ISO shipping containers for international freight transportation, ContainerAideR can pack anything.  The platform is delivered as a High Availability, Fault Tolerant, Auto-Scalable cloud resource to be used on-demand as needed and can be accessed in 3 main forms:
 
 1. Event-driven web application
 
